@@ -1,0 +1,47 @@
+.bg-container{
+    background-image:url("yoga-bg.png");
+    background-size: cover;
+    height: 100vh;
+    color:#132d84;
+    padding:20px;
+    
+    
+}
+.head{
+    font-size: 25px;
+    padding-bottom: 200px;
+}
+.img{
+    height:300px;
+    width:300px;
+    
+}
+.button{
+    margin-bottom:10px;
+}
+.second-card{
+    background-color:#ffedcb;
+    
+}
+.heading{
+    color:#253263;
+
+}
+.bold{
+    font-weight:bold;
+    padding-top: 5px;
+    padding-left:10px;
+}
+.card1{
+    background-color:#ffe2ab ;
+    border-radius: 10px;
+    margin:20px;
+}
+.image1{
+    padding:5px;
+}
+.data1{
+    font-size: 13px;
+    padding:10px;
+    padding-top:0px;
+}
